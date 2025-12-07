@@ -1,4 +1,36 @@
 # Music_Player_with_Java
+A beginner-friendly Java project that plays a .wav audio file using simple user commands.
+
+## 📌 Project Overview
+
+ This is a small Java project where I built a basic music player using the Java Sound API.
+The program runs in the console and lets the user:
+
+▶️ Play the audio
+
+⏹ Stop the audio
+
+🔄 Reset the audio
+
+❌ Quit the program
+
+ This project helped me understand file handling, audio processing, and user interaction in Java.
+
+## 🛠️ Technologies Used
+
+- Java (Core)
+
+- Eclipse IDE
+
+- Java Sound API (javax.sound.sampled)
+
+- WAV audio file (.wav format)
+
+
+
+
+
+## 🎧 Java Audio Player – Basic Console App
 
 This is a small Java project I built to understand how Java interacts with external files, like audio files.
 My idea was to create a simple music player that can play, stop, and reset a .wav audio file.
@@ -27,7 +59,7 @@ This project really helped me understand how Java handles external resources and
 ## 🚀 How to Run the Project
 #### Step 1: Clone the Repository
 
-git clone <your-github-link>
+git clone https://github.com/sanjanagajula/Music_Player_with_Java
 
 #### Step 2: Open in Eclipse
 
@@ -47,3 +79,15 @@ Check this path inside the project:
 
 Right-click → Run As → Java Application
 
+
+## 📌 Key Learning from This Project
+
+- Understanding file paths inside a Java project
+
+- Using AudioInputStream and Clip to play audio
+
+- Handling exceptions in Java
+
+- Taking user input using Scanner
+
+- Looping program flow
